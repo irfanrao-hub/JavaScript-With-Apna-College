@@ -1,0 +1,45 @@
+/* /* #heading {
+    color: rgb(150, 145, 145);
+    background-color: yellow;
+} */
+/* .heading {
+    color: rgb(150, 145, 145);
+    background-color: yellow;
+}
+body
+{
+    background-color: grey;
+}
+button
+{
+    background-color: aqua;
+} */ 
+
+/* .box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aqua;
+} */
+/* chptr 03 */
+
+/* #box{
+    height: 250px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aqua;
+} */
+
+/* practice */
+
+.myclass{
+    color: tomato;
+}
+
+.newclass{
+    background-color: green;
+}
